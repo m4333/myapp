@@ -2,3 +2,14 @@
     margin-top: 20px;
 }
 
+.card-body-vid{
+text-align: center;
+height:inherit;
+padding: 20px 10px;
+    margin: 20px 10px;
+
+}
+.object-fit-contain{
+    width: auto;
+    height: auto;
+}
